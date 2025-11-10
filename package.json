@@ -1,0 +1,20 @@
+{
+  "name": "data-interface-mock",
+  "version": "1.0.0",
+  "description": "Express.js API with JWT authentication, ready for Vercel deployment",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["express", "api", "jwt", "authentication"],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^5.1.0",
+    "jsonwebtoken": "^9.0.2",
+    "bcryptjs": "^2.4.3"
+  }
+}
