@@ -38,9 +38,9 @@ const products = [
 ];
 
 const employeePerformance = [
-  { emp_id: 'DO1', pos_code: 'P01', name: 'James', achievement: 4 },
-  { emp_id: 'DO2', pos_code: 'P02', name: 'Sarah', achievement: 5 },
-  { emp_id: 'DO3', pos_code: 'P01', name: 'Michael', achievement: 3 },
+  { emp_id: 'DO248791', pos_code: 'P01', name: 'James', achievement: 4 },
+  { emp_id: 'DO248399', pos_code: 'P02', name: 'Sarah', achievement: 5 },
+  { emp_id: 'DO248399', pos_code: 'P01', name: 'Michael', achievement: 3 },
   { emp_id: 'DO4', pos_code: 'P03', name: 'Emily', achievement: 4 },
   { emp_id: 'DO5', pos_code: 'P02', name: 'David', achievement: 5 }
 ];
