@@ -93,7 +93,7 @@ app.get("/", (req, res) => {
                 products: "GET /api/public/products",
                 health: "GET /api/public/health",
                 employeePerformance: "GET /api/public/employee-performance",
-            },
+            }, 
         },
     });
 });
